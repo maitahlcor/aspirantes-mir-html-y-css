@@ -1,0 +1,39 @@
+form {
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 20px;
+    color: black ;
+    background: linear-gradient(#bd09b7, #6b4cf5);
+  }
+  #mail {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    width: 290px;
+    color: black ;
+    background-color:white;
+  }
+  #password {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin: 10px auto;
+    width: 290px;
+    color: black ;
+    background-color:white;
+  }
+  #boton1 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: flex-end;
+    color: black ;
+    background-color:rgb(189, 186, 186);
+    position: relative;
+    top: 10px;
+    left: 200px;
+  }
